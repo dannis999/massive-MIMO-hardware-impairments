@@ -3,7 +3,9 @@ Massive MIMO Systems with Non-Ideal Hardware: Energy Efficiency, Estimation, and
 
 This is a code package is related to the follow scientific article:
 
-Emil Björnson, Jakob Hoydis, Marios Kountouris, Mérouane Debbah, “[Massive MIMO Systems with Non-Ideal Hardware: Energy Efficiency, Estimation, and Capacity Limits](http://arxiv.org/pdf/1307.2584),” IEEE Transactions on Information Theory, vol. 60, no. 11, pp. 7112-7139, November 2014.
+Emil Björnson, Jakob Hoydis, Marios Kountouris, Mérouane Debbah, “[Massive MIMO Systems with Non-Ideal Hardware: Energy Efficiency, Estimation, and Capacity Limits](http://ieeexplore.ieee.org/document/6891254/),” IEEE Transactions on Information Theory, vol. 60, no. 11, pp. 7112-7139, November 2014.
+
+DOI: 10.1109/tit.2014.2354403
 
 
 The package contains a simulation environment, based on Matlab, that reproduces all the numerical results and figures in the article. *We encourage you to also perform reproducible research!*
@@ -22,8 +24,7 @@ The package contains 2 additional Matlab functions: functionEnergyEfficiency.m a
 
 See each file for further documentation. 
 
-
-##Acknowledgements
+## Acknowledgements
 
 The work of E. Björnson was funded by the International Postdoc Grant 2012-228 from The Swedish Research Council. This research has been supported by the ERC Starting Grant 305123 MORE (Advanced Mathematical Tools for Complex Network Engineering). Parts of this work have been performed in the framework of the FP7 project ICT-317669 METIS. This work was supported by the Future and Emerging Technologies (FET) project HIATUS within the Seventh Framework Programme for Research of the European Commission under FET-Open grant number 265578.
 
